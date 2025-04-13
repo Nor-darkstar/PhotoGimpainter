@@ -19,11 +19,9 @@
 This patch is intended to work with the Linux version of GIMP , but it can be used in almost any package format with no restriction by extracting the files on the correct folders.
 
 
-### <img src="https://skillicons.dev/icons?i=linux" width="40" /> ##Linux
+### <img src="https://skillicons.dev/icons?i=linux" width="40" /> Linux
 
 In order to install the newest version of PhotoGIMP on your Linux operating system, just follow this simple steps:
-
-<img src="https://skillicons.dev/icons?i=linux" width="40" />
 
 1. Make sure you already have GIMP installed 
 2. **Start and quit GIMP after you installed before you continue!**
