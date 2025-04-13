@@ -24,7 +24,10 @@
 This patch is intended to work with the Linux version of GIMP , but it can be used in almost any package format with no restriction by extracting the files on the correct folders.
 
 
-## <p><img src="./Tools/icons/linux.png" width="40" height="40"  Linux  /></p>
+## <p>
+<img src="./Tools/icons/linux.png" width="40" height="40" >
+<em>Linux</em>
+</p>
 
 In order to install the PhotoGimpainter on your Linux operating system, just follow this simple steps:
 
