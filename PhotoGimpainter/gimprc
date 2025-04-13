@@ -1,0 +1,87 @@
+# GIMP gimprc
+# 
+# This is your personal gimprc file.  Any variable defined in this file takes
+# precedence over the value defined in the system-wide gimprc:
+# /etc/gimp/3.0/gimprc
+# Most values can be set within GIMP by changing some options in the
+# Preferences dialog.
+
+(prev-language "English")
+(config-version "3.0.2")
+(brush-path "${gimp_dir}/brushes:${gimp_data_dir}/brushes:${gimp_dir}/GIMPainter/brushes")
+(dynamics-path "${gimp_dir}/dynamics:${gimp_data_dir}/dynamics:${gimp_dir}/GIMPainter/dynamics")
+(tool-preset-path "${gimp_dir}/tool-presets:${gimp_data_dir}/tool-presets:${gimp_dir}/GIMPainter/tool-presets")
+(undo-levels 10)
+(import-raw-plug-in "${gimp_plug_in_dir}/plug-ins/file-raw-placeholder/file-raw-placeholder")
+(monitor-xresolution 102)
+(monitor-yresolution 106)
+(default-view
+    (show-menubar yes)
+    (show-statusbar yes)
+    (show-rulers yes)
+    (show-scrollbars yes)
+    (show-selection yes)
+    (show-layer-boundary no)
+    (show-canvas-boundary yes)
+    (show-guides yes)
+    (show-grid no)
+    (show-sample-points yes)
+    (snap-to-guides yes)
+    (snap-to-grid no)
+    (snap-to-canvas no)
+    (snap-to-path no)
+    (snap-to-bbox no)
+    (snap-to-equidistance no)
+    (padding-mode default)
+    (padding-color
+        (color "R'G'B'A float" 16 "\0\0\200\77\0\0\200\77\0\0\200\77\0\0\200\77" 0))
+    (padding-in-show-all no))
+(default-fullscreen-view
+    (show-menubar yes)
+    (show-statusbar yes)
+    (show-rulers yes)
+    (show-scrollbars yes)
+    (show-selection yes)
+    (show-layer-boundary no)
+    (show-canvas-boundary yes)
+    (show-guides yes)
+    (show-grid no)
+    (show-sample-points yes)
+    (snap-to-guides yes)
+    (snap-to-grid no)
+    (snap-to-canvas no)
+    (snap-to-path no)
+    (snap-to-bbox no)
+    (snap-to-equidistance no)
+    (padding-mode default)
+    (padding-color
+        (color "R'G'B'A float" 16 "\0\0\200\77\0\0\200\77\0\0\200\77\0\0\200\77" 0))
+    (padding-in-show-all no))
+(toolbox-wilber no)
+(theme "Photoshop2")
+(custom-title-bar yes)
+(show-welcome-dialog no)
+(fill-options
+    (style fg-color)
+    (custom-style solid-color)
+    (antialias yes)
+    (feather no)
+    (feather-radius 10))
+(stroke-options
+    (style fg-color)
+    (custom-style solid-color)
+    (antialias yes)
+    (feather no)
+    (feather-radius 10)
+    (method line)
+    (width 6)
+    (unit pixels)
+    (cap-style butt)
+    (join-style miter)
+    (miter-limit 10)
+    (dash-offset 0)
+    (dash-info 0)
+    (emulate-brush-dynamics no))
+
+
+# end of gimprc

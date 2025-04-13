@@ -1,0 +1,96 @@
+# GIMP sessionrc
+# 
+# This file takes session-specific info (that is info, you want to keep
+# between two GIMP sessions).  You are not supposed to edit it manually, but
+# of course you can do.  The sessionrc will be entirely rewritten every time
+# you quit GIMP.  If this file isn't found, defaults are used.
+
+(session-info "toplevel"
+    (factory-entry "gimp-empty-image-window")
+    (position 200 100)
+    (size 640 480))
+(session-info "toplevel"
+    (factory-entry "gimp-single-image-window")
+    (position 0 0)
+    (size 1920 1014)
+    (monitor 0)
+    (open-on-exit)
+    (aux-info
+        (left-docks-width "52")
+        (right-docks-width "340")
+        (maximized "yes"))
+    (gimp-toolbox
+        (side left))
+    (gimp-dock
+        (side right)
+        (book
+            (current-page 0)
+            (dockable "gimp-color-editor"
+                (tab-style preview)
+                (aux-info
+                    (current-page "GimpColorSelect")))
+            (dockable "gimp-tool-options"
+                (tab-style icon)
+                (aux-info
+                    (show-button-bar "true")))
+            (dockable "gimp-font-list"
+                (tab-style icon)
+                (aux-info
+                    (show-button-bar "true")))
+            (dockable "gimp-document-list"
+                (tab-style preview)
+                (aux-info
+                    (show-button-bar "true"))))
+        (book
+            (position 435)
+            (current-page 0)
+            (dockable "gimp-tool-preset-list"
+                (tab-style preview)
+                (aux-info
+                    (show-button-bar "true")))
+            (dockable "gimp-layer-list"
+                (tab-style icon)
+                (preview-size 32)
+                (aux-info
+                    (show-button-bar "true")))
+            (dockable "gimp-channel-list"
+                (tab-style icon)
+                (preview-size 32)
+                (aux-info
+                    (show-button-bar "true")))
+            (dockable "gimp-vectors-list"
+                (tab-style icon)
+                (preview-size 32)
+                (aux-info
+                    (show-button-bar "true")))
+            (dockable "gimp-undo-history"
+                (tab-style icon)
+                (aux-info
+                    (show-button-bar "true"))))))
+(session-info "toplevel"
+    (factory-entry "gimp-image-new-dialog")
+    (position 35 32)
+    (monitor 0))
+(session-info "toplevel"
+    (factory-entry "gimp-preferences-dialog")
+    (position 35 32)
+    (size 1028 473)
+    (monitor 0))
+(session-info "toplevel"
+    (factory-entry "gimp-file-open-dialog")
+    (position 35 32)
+    (size 1203 902)
+    (monitor 0))
+(session-info "toplevel"
+    (factory-entry "gimp-file-export-dialog")
+    (position 35 32)
+    (size 1203 902)
+    (monitor 0))
+
+(hide-docks no)
+(single-window-mode yes)
+(show-tabs yes)
+(tabs-position 0)
+(last-tip-shown 0)
+
+# end of sessionrc
