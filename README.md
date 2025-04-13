@@ -41,3 +41,19 @@ In order to install the newest version of PhotoGIMP on your Linux operating syst
 | **fetch** | `sh -c "$(fetch -o - https://raw.githubusercontent.com/Nor-darkstar/PhotoGimpainter/master/Tools/gimpatcher)"` |
 
 7. You're done, enjoy it! :smile:
+
+### <img src="https://skillicons.dev/icons?i=windows"/>Windows
+
+
+In order to install the newest version of PhotoGIMP on your Windows:
+
+1. Make sure you already have [GIMP installed from official website](https://www.gimp.org/downloads/);
+2. **Start and quit GIMP after you installed before you continue!**
+3. Download thes files from this repository or [just click here](https://github.com/Nor-darkstar/PhotoGimpainter/archive/master.zip);
+4. Extract the content from `PhotoGimpainter-master.zip` to a folder of your preference;
+5. Make sure to take backup of original configuration simply by renaming the `3.0 folder to 3.0_bak` Copy the `3.0` folder;
+6. Hold <kbd>Windows</kbd> key and press <kbd>R</kbd> to open the *Execute* dialog;
+7. Type `%APPDATA%\GIMP` into the dialog and press <kbd>Enter</kbd>;
+8. Paste the `3.0` folder inside the GIMP's folder that you just opened;
+9. When prompted about existing files, select "Replace the files in the destination";
+10. You're done, enjoy it! :smile:
