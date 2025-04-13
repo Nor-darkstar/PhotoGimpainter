@@ -19,9 +19,9 @@
 This patch is intended to work with the Linux version of GIMP , but it can be used in almost any package format with no restriction by extracting the files on the correct folders.
 
 
-### Flatpak (Linux)
+### <img src="https://skillicons.dev/icons?i=linux" width="40" /> ##Linux
 
-In order to install the newest version of PhotoGIMP on your Linux operating system using Flatpak, just follow this simple steps:
+In order to install the newest version of PhotoGIMP on your Linux operating system, just follow this simple steps:
 
 <img src="https://skillicons.dev/icons?i=linux" width="40" />
 
