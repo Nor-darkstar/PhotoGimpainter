@@ -25,6 +25,6 @@ In order to install the newest version of PhotoGIMP on your Linux operating syst
 
 1. Make sure you already have GIMP installed 
 2. **Start and quit GIMP after you installed before you continue!**
-3. Download the zip files from this repository [or just click here](https://github.com/Nor-darkstar/PhotoGimpainter/master.zip);
+3. Download the zip files from this repository [or just click here](https://github.com/Nor-darkstar/PhotoGimpainter/archive/master.zip);
 4. Extract the content of the zip file and run installer script in terminal as ./install.sh
 5. You're done, enjoy it! :smile:
