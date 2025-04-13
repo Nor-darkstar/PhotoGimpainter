@@ -1,0 +1,13 @@
+# GIMP gimp-pencil-tool options
+
+(brush "SLOS_moss-1")
+(dynamics "Pr-Op-Fl Angle-Random")
+(pattern "Pine")
+(gradient "FG to BG (RGB)")
+(palette "Color History")
+(brush-size 7)
+(brush-spacing 0.19)
+(brush-hardness 0.62)
+(brush-force 0.62)
+
+# end of gimp-pencil-tool options

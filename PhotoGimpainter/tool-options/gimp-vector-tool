@@ -1,0 +1,9 @@
+# GIMP gimp-vector-tool options
+
+(brush "SLOS_moss-1")
+(dynamics "Pr-Op-Fl Angle-Random")
+(pattern "Pine")
+(gradient "FG to BG (RGB)")
+(palette "Color History")
+
+# end of gimp-vector-tool options
