@@ -3,12 +3,12 @@
 
 
 <p>
-  <img src="./PhotoGimpainter/splashes/splash.png" width="800" height="450" 
-   alt="PhotoGimpainter Splash Art">
-  <em>PhotoGimpainter Splash Art</em>
+  <img src="./PhotoGimpainter/splashes/splash.png" width="800" height="450" alt="PhotoGimpainter Splash Art">
+  
+ <em>PhotoGimpainter Splash Art</em>
 </p>
-
 <p>
   <img src="./Screenshots/NORishrs_PhotoGimpainter.png" width="800" height="450" alt="PhotoGimpainter">
-  <em>GIMP 3.0 with the PhotoGimpainter patch applied</em>
+  
+ <em>GIMP 3.0 with the PhotoGimpainter patch applied</em>
 </p>
