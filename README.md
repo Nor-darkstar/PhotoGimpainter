@@ -26,7 +26,7 @@ This patch is intended to work with the Linux version of GIMP , but it can be us
 
 ### <img src="https://skillicons.dev/icons?i=linux" width="40" height="30" /> Linux 
 
-In order to install the newest version of PhotoGIMP on your Linux operating system, just follow this simple steps:
+In order to install the PhotoGimpainter on your Linux operating system, just follow this simple steps:
 
 1. Make sure you already have GIMP installed 
 2. **Start and quit GIMP after you installed before you continue!**
@@ -45,7 +45,7 @@ In order to install the newest version of PhotoGIMP on your Linux operating syst
 ### <img src="https://skillicons.dev/icons?i=windows" width="40" height="30" /> Windows
 
 
-In order to install the newest version of PhotoGIMP on your Windows:
+In order to install the PhotoGimpainter on your Windows:
 
 1. Make sure you already have [GIMP installed from official website](https://www.gimp.org/downloads/);
 2. **Start and quit GIMP after you installed before you continue!**
@@ -58,3 +58,19 @@ In order to install the newest version of PhotoGIMP on your Windows:
 9. Paste all files and folders in newly created `3.0` folder inside the GIMP's AppData folder that you just opened;
 10. You're done, enjoy it! :smile:
 
+### <img src="https://skillicons.dev/icons?i=macos" width="40" height="30" /> macOS
+
+
+In order to install the PhotoGimpainter on your macOS:
+
+1. Make sure you already have [GIMP installed from official website](https://www.gimp.org/downloads/);
+2. **Start and quit GIMP after you installed before you continue!**
+3. Download the files from this repository or [just click here](https://github.com/Nor-darkstar/PhotoGimpainter/archive/master.zip);
+4. Extract the content from `PhotoGimpainter-master.zip` to a folder of your preference;
+5. Open Finder, press <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>G</kbd> to open "Go to Folder";
+6. Type `~/Library/Application Support/GIMP` and press <kbd>Enter</kbd>;
+7. If you have a `2.10` folder from a previous installation, delete it to avoid conflicts;
+8. Make sure to take backup of original configuration simply by renaming the `3.0 folder to 3.0_bak`
+9. Now create the new folder `3.0` and copy the contents from extracted zip file `PhotoGimpainter-master/PhotoGimpainter`
+10.  Paste all files and folders in newly created `3.0` folder inside the GIMP's Library folder that you just opened;
+11. You're done, enjoy it! :smile:
