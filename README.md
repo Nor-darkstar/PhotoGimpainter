@@ -58,7 +58,3 @@ In order to install the newest version of PhotoGIMP on your Windows:
 9. Paste all files and folders in newly created `3.0` folder inside the GIMP's AppData folder that you just opened;
 10. You're done, enjoy it! :smile:
 
-
-:bulb: Tips:
-- Optionally, you can also download the [photogimp.ico](https://github.com/Diolinux/PhotoGIMP/releases/download/3.0/photogimp.ico) and update the icon from the shortcut in `%appdata%\Microsoft\Windows\Start Menu\Programs\GIMP 3.0.0`;
-- If you want to backup your current GIMP settings before installing PhotoGIMP, copy the entire `3.0` folder from `%APPDATA%\GIMP` to a safe location before proceeding with the installation.
