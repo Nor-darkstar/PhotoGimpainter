@@ -3,6 +3,12 @@
 # Repository Section
 REPO="https://github.com/Nor-darkstar/PhotoGimpainter.git"
 R_PATH="/var/tmp/PhotoGimpainter"
+
+# Remove folder if existing
+if [ -d "$R_PATH" ]; then
+  rm -rf "$R_PATH"
+fi
+
 git clone $REPO $R_PATH &&
 cd $R_PATH
 
