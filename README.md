@@ -24,7 +24,7 @@
 This patch is intended to work with the Linux version of GIMP , but it can be used in almost any package format with no restriction by extracting the files on the correct folders.
 
 
-### <img src="https://skillicons.dev/icons?i=linux" width="40" /> Linux
+### Linux <img src="https://skillicons.dev/icons?i=linux" width="40" />
 
 In order to install the newest version of PhotoGIMP on your Linux operating system, just follow this simple steps:
 
@@ -42,7 +42,7 @@ In order to install the newest version of PhotoGIMP on your Linux operating syst
 
 7. You're done, enjoy it! :smile:
 
-### <img src="https://skillicons.dev/icons?i=windows"/>Windows
+### Windows <img src="https://skillicons.dev/icons?i=windows" width="40" />
 
 
 In order to install the newest version of PhotoGIMP on your Windows:
@@ -56,4 +56,9 @@ In order to install the newest version of PhotoGIMP on your Windows:
 7. Make sure to take backup of original configuration simply by renaming the `3.0 folder to 3.0_bak`
 8. Now create the new folder `3.0` and copy the contents from extracted zip file `PhotoGimpainter-master/PhotoGimpainter`
 9. Paste all files and folders in newly created `3.0` folder inside the GIMP's AppData folder that you just opened;
- 10. You're done, enjoy it! :smile:
+10. You're done, enjoy it! :smile:
+
+
+:bulb: Tips:
+- Optionally, you can also download the [photogimp.ico](https://github.com/Diolinux/PhotoGIMP/releases/download/3.0/photogimp.ico) and update the icon from the shortcut in `%appdata%\Microsoft\Windows\Start Menu\Programs\GIMP 3.0.0`;
+- If you want to backup your current GIMP settings before installing PhotoGIMP, copy the entire `3.0` folder from `%APPDATA%\GIMP` to a safe location before proceeding with the installation.
