@@ -4,6 +4,7 @@
 
 <p>
   <img src="./PhotoGimpainter/splashes/splash.png" alt="PhotoGimpainter Splash Art">
+ 
   <em>PhotoGimpainter Splash Art</em>
 </p>
 
