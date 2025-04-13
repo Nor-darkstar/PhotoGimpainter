@@ -58,7 +58,7 @@ In order to install the PhotoGimpainter on your Windows:
 9. Paste all files and folders in newly created `3.0` folder inside the GIMP's AppData folder that you just opened;
 10. You're done, enjoy it! :smile:
 
-## <img src="./Tools/icons/macosx.png" width="40" height="40" bottom="5" /> macOS
+## <img src="./Tools/icons/macosx.png" width="40" height="40" bottom="10" /> macOS
 
 
 In order to install the PhotoGimpainter on your macOS:
