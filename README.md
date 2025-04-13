@@ -42,7 +42,7 @@ In order to install the PhotoGimpainter on your Linux operating system, just fol
 
 7. You're done, enjoy it! :smile:
 
-### <img src="https://skillicons.dev/icons?i=windows" width="40" height="30" /> Windows
+### <img src="./Tools/icons/windows11" width="40" height="30" /> Windows
 
 
 In order to install the PhotoGimpainter on your Windows:
