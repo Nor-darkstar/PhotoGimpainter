@@ -51,9 +51,9 @@ In order to install the newest version of PhotoGIMP on your Windows:
 2. **Start and quit GIMP after you installed before you continue!**
 3. Download thes files from this repository or [just click here](https://github.com/Nor-darkstar/PhotoGimpainter/archive/master.zip);
 4. Extract the content from `PhotoGimpainter-master.zip` to a folder of your preference;
-5. Make sure to take backup of original configuration simply by renaming the `3.0 folder to 3.0_bak` Copy the `3.0` folder;
-6. Hold <kbd>Windows</kbd> key and press <kbd>R</kbd> to open the *Execute* dialog;
-7. Type `%APPDATA%\GIMP` into the dialog and press <kbd>Enter</kbd>;
-8. Paste the `3.0` folder inside the GIMP's folder that you just opened;
-9. When prompted about existing files, select "Replace the files in the destination";
+5. Hold <kbd>Windows</kbd> key and press <kbd>R</kbd> to open the *Execute* dialog;
+6. Type `%APPDATA%\GIMP` into the dialog and press <kbd>Enter</kbd>;
+7. Make sure to take backup of original configuration simply by renaming the `3.0 folder to 3.0_bak`
+8. Now create the new folder `3.0` and copy the contents from extracted zip file `PhotoGimpainter-master/PhotoGimpainter`
+9. Paste all files and folders in newly created `3.0` folder inside the GIMP's AppData folder that you just opened;
 10. You're done, enjoy it! :smile:
