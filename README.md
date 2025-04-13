@@ -3,7 +3,8 @@
 
 
 <p>
-  <img src="./PhotoGimpainter/splashes/splash.png" width="800" height="450" alt="PhotoGimpainter Splash Art">
+  <img src="./PhotoGimpainter/splashes/splash.png" width="800" height="450" 
+   alt="PhotoGimpainter Splash Art">
   <em>PhotoGimpainter Splash Art</em>
 </p>
 
