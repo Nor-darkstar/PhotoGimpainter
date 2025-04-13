@@ -1,8 +1,8 @@
 # PhotoGimpainter
  A Patch for GIMP 3+ for Digital Artists and Adobe Photoshop users, including features like:
 
-* Tool organization to mimic the position of Adobe Photoshop;
 * New Splash Screen;
+* Tools organized to mimic the position of Adobe Photoshop;
 * New default settings to maximize space on the canvas;
 * Shortcuts similar to the ones in Photoshop for Windows,
 
