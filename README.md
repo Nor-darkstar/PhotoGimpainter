@@ -37,5 +37,7 @@ In order to install the newest version of PhotoGIMP on your Linux operating syst
   | Method    | Command                                                                                           |
 | :-------- | :------------------------------------------------------------------------------------------------ |
 | **curl**  | `sh -c "$(curl -fsSL https://raw.githubusercontent.com/Nor-darkstar/PhotoGimpainter/master/Tools/gimpatcher)"` |
+| **wget**  | `sh -c "$(wget -O- https://raw.githubusercontent.com/Nor-darkstar/PhotoGimpainter/master/Tools/gimpatcher)"`   |
+| **fetch** | `sh -c "$(fetch -o - https://raw.githubusercontent.com/Nor-darkstar/PhotoGimpainter/master/Tools/gimpatcher)"` |
 
 7. You're done, enjoy it! :smile:
