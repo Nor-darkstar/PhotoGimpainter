@@ -24,7 +24,7 @@
 This patch is intended to work with the Linux version of GIMP , but it can be used in almost any package format with no restriction by extracting the files on the correct folders.
 
 
-### <img src="https://skillicons.dev/icons?i=linux" width="40" height="30" /> Linux 
+### <img src="./Tools/icons/linux.png" width="40" height="30" /> Linux 
 
 In order to install the PhotoGimpainter on your Linux operating system, just follow this simple steps:
 
@@ -42,7 +42,7 @@ In order to install the PhotoGimpainter on your Linux operating system, just fol
 
 7. You're done, enjoy it! :smile:
 
-### <img src="./Tools/icons/windows11" width="40" height="30" /> Windows
+### <img src="./Tools/icons/windows11.png" width="40" height="30" /> Windows
 
 
 In order to install the PhotoGimpainter on your Windows:
@@ -58,7 +58,7 @@ In order to install the PhotoGimpainter on your Windows:
 9. Paste all files and folders in newly created `3.0` folder inside the GIMP's AppData folder that you just opened;
 10. You're done, enjoy it! :smile:
 
-### <img src="https://skillicons.dev/icons?i=macos" width="40" height="30" /> macOS
+### <img src="./Tools/icons/macosx.png" width="40" height="30" /> macOS
 
 
 In order to install the PhotoGimpainter on your macOS:
