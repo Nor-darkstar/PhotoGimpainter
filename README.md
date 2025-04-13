@@ -42,7 +42,7 @@ In order to install the newest version of PhotoGIMP on your Linux operating syst
 
 7. You're done, enjoy it! :smile:
 
-### Windows <img src="https://skillicons.dev/icons?i=windows" width="40" />
+### <img src="https://skillicons.dev/icons?i=windows" width="40" height="30" /> Windows
 
 
 In order to install the newest version of PhotoGIMP on your Windows:
