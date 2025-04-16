@@ -75,4 +75,4 @@ In order to install the PhotoGimpainter on your macOS:
 10.  Paste all files and folders in newly created `3.0` folder inside the GIMP's Library folder that you just opened;
 11. You're done, enjoy it! :smile:
 
-## 
+ 
